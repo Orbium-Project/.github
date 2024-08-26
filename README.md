@@ -1,3 +1,5 @@
+<p align="center"><img align="center" width="256" height="256" src="https://raw.githubusercontent.com/Base16-Rose/.github/main/assets/camelliaicon.png"></p>
+
 <h1 align="center">Orbium</h1>
 
 <p align="center">"Where the gust blows, it sails the ship somewhere"</p>
